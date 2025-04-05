@@ -47,7 +47,10 @@
 ## 💻 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,flutter,tailwind,arduino,raspberrypi,git,github,figma,ps,ai,pr,blender,java,php,dart,python,c,cpp,kotlin,html,css,mysql,firebase,vercel,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" />
 </p>
+
+
 
 ---
 
