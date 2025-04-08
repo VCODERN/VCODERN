@@ -62,7 +62,6 @@
 
 <hr>
 
-<!-- Tech Stack -->
 ## 💻 <center>**Tech Stack**</center>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,flutter,tailwind,arduino,raspberrypi,git,github,figma,ps,ai,pr,blender,java,php,dart,python,c,cpp,kotlin,html,css,mysql,firebase,vercel,linux" />
@@ -70,8 +69,6 @@
 </p>
 
 <hr>
-
-<!-- GitHub Stats -->
 ## 📊 <center>**GitHub Stats**</center>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCODERN&theme=dark&hide_border=true&layout=compact" />
@@ -81,7 +78,6 @@
 
 <hr>
 
-<!-- GitHub Trophies -->
 ## 🏆 <center>**GitHub Trophies**</center>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VCODERN&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
@@ -89,7 +85,6 @@
 
 <hr>
 
-<!-- Top Repos -->
 ## 🔝 <center>**Top Contributed Repos**</center>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=VCODERN&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -97,7 +92,6 @@
 
 <hr>
 
-<!-- Dev Quote -->
 ## ✍️ <center>**Random Dev Quote**</center>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -105,7 +99,6 @@
 
 <hr>
 
-<!-- Profile Views -->
 ## 🔥 <center>**Profile Views**</center>
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=VCODERN&icon=0&color=9" />
