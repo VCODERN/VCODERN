@@ -3,7 +3,7 @@
   <img src="assets/cthulu.gif" alt="Cthulhu GIF" width="100%">
 </p>
 
-<!-- Quote Container -->
+
 <div align="center" style="
   font-size: 24px; 
   font-style: italic; 
@@ -19,17 +19,15 @@
   <em>"In the midst of the oceans, there are a lot of unknowns,<br>and thus I will remain in my slumber till my calling."</em>
 </div>
 
-<!-- Snake Contribution -->
+
 <img align="center" width="100%" src="https://github.com/VCODERN/VCODERN/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 <hr>
 
-<!-- Animated Typing Header -->
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&duration=4000&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
 </h1>
 
-<!-- About Me -->
 ## 💫 <center>**About Me**</center>
 <p align="center" style="font-size: 18px;">
   🚀 Actively coding new websites and experimenting with all kinds of <strong>microcontrollers</strong>!
