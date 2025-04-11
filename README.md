@@ -62,8 +62,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,flutter,tailwind,arduino,raspberrypi,git,github,figma,ps,ai,pr,blender,java,php,dart,python,c,cpp,kotlin,html,css,mysql,firebase,vercel,linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Diagrams.net_Logo.svg" height="50" alt="draw.io" />
 </p>
+
 
 
 <hr>
