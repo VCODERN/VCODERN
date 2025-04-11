@@ -1,4 +1,3 @@
-<!-- Animated Header -->
 <p align="center">
   <img src="assets/cthulu.gif" alt="Cthulhu GIF" width="100%">
 </p>
@@ -35,7 +34,6 @@
 
 <hr>
 
-<!-- Socials -->
 ## 🌐 <center>**Socials**</center>
 <p align="center">
   <a href="https://facebook.com/Vince Carlo Noora" target="_blank">
