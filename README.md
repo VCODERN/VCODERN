@@ -103,7 +103,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em><strong>Proudly created with</strong> <a href="https://gprm.itsvg.in" target="_blank">GPRM 🚀</a></em>
-</p>
