@@ -29,7 +29,7 @@
 
 ## 💫 <center>**About Me**</center>
 <p align="center" style="font-size: 18px;">
-  🚀 Actively coding new websites and experimenting with all kinds of <strong>microcontrollers</strong>!
+   Actively coding new websites and experimenting with all kinds of <strong>microcontrollers</strong>!
 </p>
 
 <hr>
