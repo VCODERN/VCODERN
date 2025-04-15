@@ -67,7 +67,6 @@
 
 
 <hr>
-## 📊 <center>**GitHub Stats**</center>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCODERN&theme=dark&hide_border=true&layout=compact" />
   <br><br>
@@ -90,7 +89,6 @@
 
 <hr>
 
-## ✍️ <center>**Random Dev Quote**</center>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
