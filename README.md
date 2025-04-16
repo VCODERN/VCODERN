@@ -27,7 +27,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&duration=4000&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
 </h1>
 
-## 💫 <center>**About Me**</center>
 <p align="center" style="font-size: 18px;">
    Actively coding new websites and experimenting with all kinds of <strong>microcontrollers</strong>!
 </p>
