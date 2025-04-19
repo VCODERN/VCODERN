@@ -33,7 +33,7 @@
 
 <hr>
 
-## 🌐 <center>**Socials**</center>
+## 🌐 <center>Socials</center>
 <p align="center">
   <a href="https://facebook.com/Vince Carlo Noora" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
