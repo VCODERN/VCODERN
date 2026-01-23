@@ -87,16 +87,8 @@
 </p>
 
 <hr>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
 <hr>
 
-## 🔥 <center>**Profile Views**</center>
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VCODERN&icon=0&color=9" />
-</p>
-
----
